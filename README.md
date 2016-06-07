@@ -10,5 +10,5 @@ a react and redux package list
 
 ## redux
 * [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions) - Batching action creator and associated higher order reducer
-* [redux-saga](https://github.com/yelouafi/redux-saga) 
+* [redux-saga](https://github.com/yelouafi/redux-saga) - An alternative side effect model for Redux apps
 * [reselect](https://github.com/reactjs/reselect) - Selector library for Redux
